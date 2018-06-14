@@ -1,0 +1,9 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="DockerLocal" type="docker">
+      <configuration>
+        <option name="certificatesPath" value="C:\Users\xavier.hainaux\.docker\machine\machines\default" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>
